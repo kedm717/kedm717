@@ -1,4 +1,4 @@
-### Hi there 👋
+## 🧑🏻‍💻 Hello! This is DongChanKim.🇰🇷
 
 <a href="https://velog.io/@kedmm717">
     <img 
