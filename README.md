@@ -2,7 +2,7 @@
 
 <a href="https://velog.io/@kedmm717">
     <img 
-        src="http://img.shields.io/badge/-제 블로그 주소입니다.-222222?style=flat&logo=Vector Logo Zone)&link=https://velog.io/@kedmm717"
+        src="http://img.shields.io/badge/-제 블로그 주소입니다.-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@kedmm717"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
