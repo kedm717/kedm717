@@ -3,8 +3,9 @@
 <a href="https://velog.io/@kedmm717">
     <img 
         src="http://img.shields.io/badge/-제 블로그 주소입니다.-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@kedmm717"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 10px;"/>
 </a>
+
 
 ![kedm717's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedm717&theme=tokyonight&show_icons=true)
 
