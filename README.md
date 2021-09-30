@@ -6,7 +6,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![kedmm717's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedmm717&theme=tokyonight&show_icons=true)
+![kedm717's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedm717&theme=tokyonight&show_icons=true)
 
 
 <!--
